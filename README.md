@@ -1,3 +1,3 @@
 # WildWest
 
-A repository for tumbleweeds, cacti, and bar doors
+A repository for tumbleweeds, cacti, and saloon doors
